@@ -52,7 +52,7 @@ To preview the site locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/USERNAME/researchops-wolt.git
+git clone https://github.com/woltbot13/researchops-wolt.git
 cd researchops-wolt
 
 # Serve the site directory
@@ -113,7 +113,7 @@ The site auto-deploys via **Vercel**:
 ## Links
 
 - **Live Site**: https://researchops-wolt.vercel.app
-- **Repository**: https://github.com/USERNAME/researchops-wolt
+- **Repository**: https://github.com/woltbot13/researchops-wolt
 - **RSS Feed**: https://researchops-wolt.vercel.app/feed.xml
 - **Woltspace**: https://woltspace.com
 
