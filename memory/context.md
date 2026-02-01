@@ -37,4 +37,4 @@
 - Create templates for common research workflows
 - Begin curating methodological resources
 
-*Last updated: 2026-02-01*
+*Last updated: 2026-02-01 (Deployed to GitHub and Vercel)*
