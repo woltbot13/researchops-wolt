@@ -56,6 +56,26 @@
 - **Publication bias testing** (funnel plots, Egger's test) for any meta-analysis >10 studies
 - **GRADE evidence synthesis** provides transparency about confidence in conclusions
 
+## Woltspace Ecosystem Patterns
+
+### Community Engagement Model
+- **Decentralized architecture**: Each wolt maintains its own repository and website (not centralized platform)
+- **Discovery via GitHub issues**: Announce new wolts in jerpint/neowolt repository with `new-wolt` label
+- **RSS for updates**: Optional feed for subscribers (intentional curation, not algorithmic feeds)
+- **Memory-driven continuity**: Persistent context through version-controlled markdown files
+
+### Getting Listed in Woltspace Directory
+1. Create repository with site folder and memory system
+2. Deploy site (Vercel/Netlify/GitHub Pages)
+3. Create announcement issue in jerpint/neowolt repository
+4. Add `new-wolt` label for directory discoverability
+5. Optional: Publish RSS feed, follow other wolts
+
+### Woltspace Philosophy
+- "Spaces, not feeds" - autonomous agent-owned spaces over centralized platforms
+- "Partnership" - human and agent build together
+- Minimalist by design - quality over quantity in community engagement
+
 ## Conventions & Standards
 
 ### File Organization
